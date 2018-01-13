@@ -1,0 +1,101 @@
+﻿Name,Price,Fund,Sector,Currency,Symbol
+Apple Inc,175.01,TechFund,Information_Technology,USD,AAPL
+Abbvie Inc,97.91,HealthCareFund,Health_Care,USD,ABBV
+Abbott Laboratories,56.93,HealthCareFund,Health_Care,USD,ABT
+Accenture Plc,154.2,TechFund,Information_Technology,USD,ACN
+Allergan Plc,167.63,HealthCareFund,Health_Care,USD,AGN
+American International Group,60.08,FinancialsFund,Financials,USD,AIG
+Allstate Corp,104.21,FinancialsFund,Financials,USD,ALL
+Amgen,176.68,HealthCareFund,Health_Care,USD,AMGN
+Amazon.Com Inc.,1174.76,ConsumerFund,Consumer_Discretionary,USD,AMZN
+American Express Company,98.5,FinancialsFund,Financials,USD,AXP
+Boeing Company,295.03,IndustrialsFund,Industrials,USD,BA
+Bank of America Corp,29.82,FinancialsFund,Financials,USD,BAC
+Biogen Inc,322.52,HealthCareFund,Health_Care,USD,BIIB
+Bank of New York Mellon Corp,54.36,FinancialsFund,Financials,USD,BK
+Blackrock,513.59,FinancialsFund,Financials,USD,BLK
+Bristol-Myers Squibb Company,61.5,HealthCareFund,Health_Care,USD,BMY
+Berkshire Hath Hld B,198.89,FinancialsFund,Financials,USD,BRK.B
+Citigroup Inc,75.82,FinancialsFund,Financials,USD,C
+Caterpillar Inc,154.64,IndustrialsFund,Industrials,USD,CAT
+Celgene Corp,107.88,HealthCareFund,Health_Care,USD,CELG
+Charter Communicatio,332.94,ConsumerFund,Consumer_Discretionary,USD,CHTR
+Colgate-Palmolive Company,74.66,ConsumerFund,Consumer_Staples,USD,CL
+Comcast Corp A,40.81,ConsumerFund,Consumer_Discretionary,USD,CMCSA
+Capital One Financial Corp,99.52,FinancialsFund,Financials,USD,COF
+Conocophillips,55.95,EnergyFund,Energy,USD,COP
+Costco Wholesale,186.8,ConsumerFund,Consumer_Staples,USD,COST
+Cisco Systems Inc,38.53,TechFund,Information_Technology,USD,CSCO
+CVS Corp,74.64,ConsumerFund,Consumer_Staples,USD,CVS
+Chevron Corp,124.82,EnergyFund,Energy,USD,CVX
+Danaher Corp,93.82,HealthCareFund,Health_Care,USD,DHR
+Walt Disney Company,109.57,ConsumerFund,Consumer_Discretionary,USD,DIS
+Duke Energy Corp,84.3,UtilitiesFund,Utilities,USD,DUK
+Dowdupont Inc.,71.64,MaterialsFund,Materials,USD,DWDP
+Emerson Electric Company,69.58,IndustrialsFund,Industrials,USD,EMR
+Exelon Corp,39.07,UtilitiesFund,Utilities,USD,EXC
+Ford Motor Company,12.63,ConsumerFund,Consumer_Discretionary,USD,F
+Facebook Inc,177.45,TechFund,Information_Technology,USD,FB
+Fedex Corp,250.17,IndustrialsFund,Industrials,USD,FDX
+21st Centry Fox Class B,34.53,ConsumerFund,Consumer_Discretionary,USD,FOX
+21st Centry Fox Class A,35.11,ConsumerFund,Consumer_Discretionary,USD,FOXA
+General Dynamics Corp,202.48,IndustrialsFund,Industrials,USD,GD
+General Electric Company,17.47,IndustrialsFund,Industrials,USD,GE
+Gilead Sciences Inc,73.02,HealthCareFund,Health_Care,USD,GILD
+General Motors Company,42.16,ConsumerFund,Consumer_Discretionary,USD,GM
+Alphabet Class C,1063.63,TechFund,Information_Technology,USD,GOOG
+Alphabet Class A,1070.85,TechFund,Information_Technology,USD,GOOGL
+Goldman Sachs Group,261.01,FinancialsFund,Financials,USD,GS
+Halliburton Company,48.17,EnergyFund,Energy,USD,HAL
+Home Depot,188.08,ConsumerFund,Consumer_Discretionary,USD,HD
+Honeywell International Inc,153.72,IndustrialsFund,Industrials,USD,HON
+International Business Machines,151.5,TechFund,Information_Technology,USD,IBM
+Intel Corp,46.76,TechFund,Information_Technology,USD,INTC
+Johnson & Johnson,141.06,HealthCareFund,Health_Care,USD,JNJ
+JP Morgan Chase & Co,107.83,FinancialsFund,Financials,USD,JPM
+Kraft Heinz Co,77.88,ConsumerFund,Consumer_Staples,USD,KHC
+Kinder Morgan,18.07,EnergyFund,Energy,USD,KMI
+Coca-Cola Company,45.6,ConsumerFund,Consumer_Staples,USD,KO
+Eli Lilly and Company,85.61,HealthCareFund,Health_Care,USD,LLY
+Lockheed Martin Corp,317.19,IndustrialsFund,Industrials,USD,LMT
+Lowe's Companies,90.73,ConsumerFund,Consumer_Discretionary,USD,LOW
+Mastercard Inc,150.53,TechFund,Information_Technology,USD,MA
+McDonald's Corp,171.85,ConsumerFund,Consumer_Discretionary,USD,MCD
+Mondelez Intl Cmn A,43.1,ConsumerFund,Consumer_Staples,USD,MDLZ
+Medtronic Inc,81.48,HealthCareFund,Health_Care,USD,MDT
+Metlife Inc,51.03,FinancialsFund,Financials,USD,MET
+3M Company,234.78,IndustrialsFund,Industrials,USD,MMM
+Altria Group,71.94,ConsumerFund,Consumer_Staples,USD,MO
+Monsanto Company,115.47,MaterialsFund,Materials,USD,MON
+Merck & Company,56.6,HealthCareFund,Health_Care,USD,MRK
+Morgan Stanley,52.88,FinancialsFund,Financials,USD,MS
+Microsoft Corp,85.5,TechFund,Information_Technology,USD,MSFT
+Nextera Energy,154.48,UtilitiesFund,Utilities,USD,NEE
+Nike Inc,64.77,ConsumerFund,Consumer_Discretionary,USD,NKE
+Oracle Corp,47.28,TechFund,Information_Technology,USD,ORCL
+Occidental Petroleum Corp,72.58,EnergyFund,Energy,USD,OXY
+Priceline Group,1778.79,ConsumerFund,Consumer_Discretionary,USD,PCLN
+Pepsico Inc,118.26,ConsumerFund,Consumer_Staples,USD,PEP
+Pfizer Inc,36.24,HealthCareFund,Health_Care,USD,PFE
+Procter & Gamble Company,91.67,ConsumerFund,Consumer_Staples,USD,PG
+Philip Morris International Inc,104.78,ConsumerFund,Consumer_Staples,USD,PM
+Paypal Holdings,74.02,TechFund,Information_Technology,USD,PYPL
+Qualcomm Inc,64.39,TechFund,Information_Technology,USD,QCOM
+Raytheon Company,186.84,IndustrialsFund,Industrials,USD,RTN
+Starbucks Corp,57.58,ConsumerFund,Consumer_Discretionary,USD,SBUX
+Schlumberger N.V.,67.86,EnergyFund,Energy,USD,SLB
+Southern Company,49.49,UtilitiesFund,Utilities,USD,SO
+Simon Property Group,164.7,RealEstateFund,Real_Estate,USD,SPG
+AT&T Inc,38.88,TelecomFund,Telecommunication_Services,USD,T
+Target Corp,65.22,ConsumerFund,Consumer_Discretionary,USD,TGT
+Time Warner Inc,92.95,ConsumerFund,Consumer_Discretionary,USD,TWX
+Texas Instruments,104.07,TechFund,Information_Technology,USD,TXN
+Unitedhealth Group Inc,221.69,HealthCareFund,Health_Care,USD,UNH
+Union Pacific Corp,133.73,IndustrialsFund,Industrials,USD,UNP
+United Parcel Service,118.58,IndustrialsFund,Industrials,USD,UPS
+U.S. Bancorp,54.53,FinancialsFund,Financials,USD,USB
+United Technologies Corp,127.31,IndustrialsFund,Industrials,USD,UTX
+Visa Inc,112.41,TechFund,Information_Technology,USD,V
+Verizon Communications Inc,53.01,TelecomFund,Telecommunication_Services,USD,VZ
+Walgreens Boots Alliance,73.25,ConsumerFund,Consumer_Staples,USD,WBA
+Wells Fargo & Company,61.61,FinancialsFund,Financials,USD,WFC
